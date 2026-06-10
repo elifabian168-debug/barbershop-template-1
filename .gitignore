@@ -1,0 +1,5 @@
+# Original full-size photo downloads — only the optimized cut*.jpg /
+# barber*.jpg copies referenced by index.html get committed.
+images/*-unsplash.jpg
+
+.DS_Store
